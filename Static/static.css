@@ -1,0 +1,50 @@
+li{
+	display:inline;
+	font-size:20px;
+	padding: 10px 10px 10px;
+	background-color:Black;
+	text-align:right;
+	float: right;
+}
+	
+.white {
+	color:White;
+	font-family:courier;
+}
+
+body {
+	background-color:White;
+	color: white;
+}
+
+.black {
+	background-color:Black;
+}
+
+.simple {
+	font-family:Courier;
+	font-color:white;
+	font-size:20px;
+}
+
+img{
+	height:244;
+	width:200;
+	float:left;
+	
+}
+
+hr {
+	color:Black;
+}
+
+.quote{
+	font-family:Luminari, fantasy;
+	font-size:40px;
+	color:Black;
+}
+
+.wide{
+	height:250;
+	width:400;
+}
